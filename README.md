@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marjvyas
-- 👀 I’m interested in Python Programming, Problem solving, learning something new by eploring.
+- 👀 I’m interested in Python Programming, Problem solving, learning something new by exploring.
 - 🌱 I’m currently learning Python frameworks, packages and Modules.
 
 <!---
